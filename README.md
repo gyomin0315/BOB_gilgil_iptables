@@ -1,1 +1,0 @@
-# BOB_gilgil_iptables
